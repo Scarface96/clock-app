@@ -6,6 +6,8 @@ A working analog clock built with plain **HTML**, **CSS** and **JavaScript**. Th
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+<p align="center"><img src="docs/images/clock.png" alt="Analog clock with hour, minute and second hands" width="300"></p>
+
 ## ✨ Features
 
 - Hour, minute and second hands that update every second
