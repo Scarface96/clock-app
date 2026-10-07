@@ -48,3 +48,7 @@ DOM selection with data attributes, `setInterval`, the JavaScript `Date` object,
 ---
 
 👤 **Tony Mulunda** — [GitHub @Scarface96](https://github.com/Scarface96)
+
+## About This Project
+
+A real-time analog clock built with vanilla HTML, CSS and JavaScript. It demonstrates DOM manipulation, JavaScript date/time handling, timed updates and the use of CSS transforms and custom properties to create a dynamic interface.
